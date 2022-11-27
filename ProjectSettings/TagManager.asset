@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Level
+  - climbing
+  - Player
+  - background
+  - enemyy
+  - spikes
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 1236892341
+    locked: 0
+  - name: water
+    uniqueID: 2454269527
+    locked: 0
+  - name: level
+    uniqueID: 1913012121
+    locked: 0
+  - name: climbing
+    uniqueID: 4159811247
+    locked: 0
+  - name: spikes
+    uniqueID: 3563532473
+    locked: 0
+  - name: enemy
+    uniqueID: 1529169415
+    locked: 0
+  - name: player
+    uniqueID: 2600279691
+    locked: 0
